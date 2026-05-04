@@ -1,0 +1,2 @@
+# Add project dependencies here
+# Generate with: pip freeze > requirements.txt

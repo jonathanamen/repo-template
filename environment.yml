@@ -1,0 +1,20 @@
+# Conda Environment Setup
+#
+# Create:  conda env create -f environment.yml
+# Update:  conda env update --file environment.yml --prune
+# Export:  conda env export --name [env-name] > environment.yml
+# Remove:  conda env remove --name [env-name]
+# List:    conda env list
+
+name: [project-name]
+channels:
+  - anaconda
+  - conda-forge
+  - defaults
+dependencies:
+  - python=3.11
+  - pip
+  - pip:
+      # Add your dependencies here
+      # - numpy==x.x.x
+      # - pandas==x.x.x

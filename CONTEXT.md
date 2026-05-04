@@ -1,71 +1,19 @@
-# Arcane Predictive — Operations Context
+# Project Context
 
-## Identity
-- **Owner:** Jonathan Amen
-- **Business:** Arcane Predictive
-- **Tagline:** Data Intelligence for Complex Markets
-- **Title:** Founder & Principal
-- **Domain:** arcanepredictive.com
-- **Primary Email:** [cloudflare email]
+## Purpose
+<!-- What problem does this project solve? Who are the stakeholders? -->
 
----
+## Background
+<!-- Relevant history, prior work, or decisions that led to this project -->
 
-## Projects
+## Architectural Decisions
+<!-- Key decisions made and why. What was considered and rejected? -->
 
-### Arcane Predictive (AP)
-- **Repo:** github.com/jonathanamen/arcane-predictive (public)
-- **Platform:** Azure Databricks
-- **Status:** In development
-- **Description:** Trading card game analytics and predictive modeling. First product under AP brand.
+## Assumptions
+<!-- What are we assuming to be true that isn't explicitly documented elsewhere? -->
 
-### Databricks
-- **Repo:** github.com/jonathanamen/databricks (public)
-- **Platform:** Databricks
-- **Status:** Active
-- **Description:** For portfolio. Parameterized notebook-only medallion pipeline using CDF and streaming.
+## Known Limitations
+<!-- What are the current constraints or known gaps? -->
 
-### Project Fitness Tracker
-- **Repo:** github.com/jonathanamen/Project-FitnessTracker (public)
-- **Status:** Parked
-- **Description:** Data science portfolio project.
-
----
-
-## Accounts & Services
-
-### Cloudflare
-- **Email:** jonvvoid@gmail.com
-- **Owns:** arcanepredictive.com
-
-### GitHub
-- **Username:** jonathanamen
-- **Email:** amenjonathan@gmail.com
-
-### Azure
-- **Email:** [your email]
-- **Used for:** Databricks (AP development)
-
----
-
-## Infrastructure
-
-### Local Development
-- **Machine:** ENIAC
-- **OS:** Windows
-- **IDE:** VS Code (reset pending)
-- **Shell:** Git Bash
-- **Python:** Conda
-
-### Stack
-- GCP, BigQuery, Databricks, Fivetran, Dataform, dbt, Looker, Python, SQL
-
----
-
-## Parked & Archived
-
-*Low-priority or dormant assets. Retain for reference, do not delete without review.*
-
-### GitHub (Arcane Predictive Account)
-- **Email:** jonvvoid@gmail.com
-- **Status:** Parked — no active repos
-- **Purpose:** Reserved if AP scales to its own org
+## Contacts
+<!-- Who owns this project? Who are the subject matter experts? -->
